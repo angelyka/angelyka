@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Hello](https://imgur.com/QxbMNMv.gif)
+
+📫 Get in touch: [![Linkedin Badge](https://img.shields.io/badge/-Angelica_E.-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelica-esmabe/)
 <!--
 **angelyka/angelyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
